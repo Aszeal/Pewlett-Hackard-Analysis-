@@ -13,11 +13,11 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
  
 ### The second part of the analysis revealed an additional two points which are the following; ###
   1. After reviewing the information from the filter information from the database, we discovered that althoug there are many Senior staff, they're were very little  *Technical Leaders*.
-  2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done     an excellent job and inclusion and diversity within their ranks and employees.
+  2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done an excellent job and inclusion and diversity within their ranks and employees.
 
 
 
-![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(84).png)
+![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(85).png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Summary #  
@@ -26,5 +26,9 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Pewlett Hackard will need to replace 72458 employees as soon as the "silver tsunami" begins to make an impact.
 
 
+![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(84).png)
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 The short answer is no. There is roughly 2,000 mentor-ready employees to train the next generation. On one condition, assuming that everyone retired at the same time. My opinion is that if Pewlett Hackard ensure that their is a steady amount of mentors it could lessen the blow of the "silver tsunami"
+
+![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(83).png)
