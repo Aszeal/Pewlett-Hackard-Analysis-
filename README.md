@@ -1,4 +1,4 @@
-# The Pewlett Hackard # 
+# The Pewlett Hackard Analysis # 
 
 # Overview of Analysis #
 As the United States' workforce begins to retire, Bobby and I have been assigned to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program for a company called **Pewlett Hackard**. We will provide effective and informative insight of the strengths and weaknesses that Pewlett Hackard could have that will help or harm their logevity in the ever evolving workforce. 
