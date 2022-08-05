@@ -2,7 +2,7 @@
 As the United States' workforce begins to retire, Bobby and I have been assigned to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program for a company called **Pewlett Hackard**. We will provide effective and informative insight of the strengths and weaknesses that Pewlett Hackard could have that will help or harm their logevity in the ever evolving workforce. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Results ##
+# Results #
 ### Analysis of the *Retiring Titles* lead us to two major points which are the following; ###
   1. based off of the figure below, there is a large amount of higer-position employees retiring; Senior Engineers, Staff, and Technique Leaders.
   2. Less than half of the employees retiring are low-level employees.
