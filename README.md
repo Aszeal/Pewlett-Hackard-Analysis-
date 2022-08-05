@@ -13,8 +13,10 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
   1. After reviewing the information from the filter information from the database, we discovered that althoug there are many Senior staff, they're were very little  *Technical Leaders*.
   2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done     an excellent job and inclusion and diversity within their ranks and employees.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+#Summary# 
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Pewlett Hackard will need to replace 72458 employees as soon as the "silver tsunami" begins to make an impact.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
