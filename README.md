@@ -3,13 +3,13 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Results ##
-Analysis of the *Retiring Titles* lead us to two major points which are the following;
+## Analysis of the *Retiring Titles* lead us to two major points which are the following;##
   1. based off of the figure below, there is a large amount of higer-position employees retiring; Senior Engineers, Staff, and Technique Leaders.
   2. Less than half of the employees retiring are low-level employees.
  
  
  
-The second part of the analysis revealed an additional two points which are the following;
+### The second part of the analysis revealed an additional two points which are the following; ###
   1. After reviewing the information from the filter information from the database, we discovered that althoug there are many Senior staff, they're were very little  *Technical Leaders*.
   2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done     an excellent job and inclusion and diversity within their ranks and employees.
 
