@@ -7,14 +7,17 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
   1. based off of the figure below, there is a large amount of higer-position employees retiring; Senior Engineers, Staff, and Technique Leaders.
   2. Less than half of the employees retiring are low-level employees.
  
- 
+ ![The PyBer Analysis](https://github.com/Aszeal/PyBer_Analysis/blob/main/Analysis/Screenshot%20(59).png)
  
 ### The second part of the analysis revealed an additional two points which are the following; ###
   1. After reviewing the information from the filter information from the database, we discovered that althoug there are many Senior staff, they're were very little  *Technical Leaders*.
   2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done     an excellent job and inclusion and diversity within their ranks and employees.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+![The PyBer Analysis](https://github.com/Aszeal/PyBer_Analysis/blob/main/Analysis/Screenshot%20(59).png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Summary # 
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
