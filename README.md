@@ -3,7 +3,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Results ##
-## Analysis of the *Retiring Titles* lead us to two major points which are the following;##
+### Analysis of the *Retiring Titles* lead us to two major points which are the following; ###
   1. based off of the figure below, there is a large amount of higer-position employees retiring; Senior Engineers, Staff, and Technique Leaders.
   2. Less than half of the employees retiring are low-level employees.
  
