@@ -16,4 +16,6 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Pewlett Hackard will need to replace 72458 employees as soon as the "silver tsunami" begins to make an impact.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The short answer is no. There is roughly 2,000 mentor-ready employees to train the next generation. On one condition, assuming that everyone retired at the same time. My opinion is that if Pewlett Hackard ensure that their is a steady amount of mentors it could lessen the blow of the "silver tsunami"
