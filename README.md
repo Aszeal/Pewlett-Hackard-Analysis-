@@ -28,11 +28,11 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Pewlett Hackard will need to replace 72,458 employees as soon as the "silver tsunami" begins to make an impact.
 
 
-![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(84).png)
+![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(83).png)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
 The short answer is no. There is roughly 2,000 mentor-ready employees to train the next generation. On one condition, assuming that everyone retired at the same time. My opinion is that if Pewlett Hackard ensured that their is a steady amount of mentors it could lessen the blow of the "silver tsunami" over time.
 
-![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(83).png)
+![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(84).png)
