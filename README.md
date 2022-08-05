@@ -13,7 +13,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
  
 ### The second part of the analysis revealed an additional two points which are the following; ###
   1. After reviewing the information from the filter information from the database, we discovered that although there are many Senior staff, there were very little  *Technical Leaders*.
-  2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done an excellent job and inclusion and diversity within their ranks and employees.
+  2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based off of the filtered database information, Pewlett Hackard has done an excellent job of inclusion and diversity within their ranks and employees.
 
 
 
