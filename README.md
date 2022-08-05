@@ -1,3 +1,5 @@
+
+
 # Overview of Analysis #
 As the United States' workforce begins to retire, Bobby and I have been assigned to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program for a company called **Pewlett Hackard**. We will provide effective and informative insight of the strengths and weaknesses that Pewlett Hackard could have that will help or harm their logevity in the ever evolving workforce. 
 
@@ -7,7 +9,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
   1. based off of the figure below, there is a large amount of higer-position employees retiring; Senior Engineers, Staff, and Technique Leaders.
   2. Less than half of the employees retiring are low-level employees.
  
- ![The PyBer Analysis](https://github.com/Aszeal/PyBer_Analysis/blob/main/Analysis/Screenshot%20(59).png)
+ ![Pewlett-Hackard-Analysis-](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis/Screenshot%20(83).png)
  
 ### The second part of the analysis revealed an additional two points which are the following; ###
   1. After reviewing the information from the filter information from the database, we discovered that althoug there are many Senior staff, they're were very little  *Technical Leaders*.
@@ -15,7 +17,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
 
 
 
-![The PyBer Analysis](https://github.com/Aszeal/PyBer_Analysis/blob/main/Analysis/Screenshot%20(59).png)
+![Pewlett-Hackard-Analysis-](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis/Screenshot%20(84).png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Summary # 
