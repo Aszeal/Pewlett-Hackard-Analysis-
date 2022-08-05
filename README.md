@@ -9,7 +9,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
   1. based off of the figure below, there is a large amount of higer-position employees retiring; Senior Engineers, Staff, and Technique Leaders.
   2. Less than half of the employees retiring are low-level employees.
  
- ![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis/Screenshot%20(83).png)
+ ![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(83).png)
  
 ### The second part of the analysis revealed an additional two points which are the following; ###
   1. After reviewing the information from the filter information from the database, we discovered that althoug there are many Senior staff, they're were very little  *Technical Leaders*.
