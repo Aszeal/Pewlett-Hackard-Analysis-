@@ -12,7 +12,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
  ![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(83).png)
  
 ### The second part of the analysis revealed an additional two points which are the following; ###
-  1. After reviewing the information from the filter information from the database, we discovered that although there are many Senior staff, their were very little  *Technical Leaders*.
+  1. After reviewing the information from the filter information from the database, we discovered that although there are many Senior staff, there were very little  *Technical Leaders*.
   2. When it comes to mentorship, having a diverse group of mentors is crucial for the program to work, based the filter database information, Pewlett Hackard has done an excellent job and inclusion and diversity within their ranks and employees.
 
 
