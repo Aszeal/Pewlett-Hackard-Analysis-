@@ -25,7 +25,7 @@ As the United States' workforce begins to retire, Bobby and I have been assigned
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 
-Pewlett Hackard will need to replace 72458 employees as soon as the "silver tsunami" begins to make an impact.
+Pewlett Hackard will need to replace 72,458 employees as soon as the "silver tsunami" begins to make an impact.
 
 
 ![Pewlett-Hackard-Analysis](https://github.com/Aszeal/Pewlett-Hackard-Analysis-/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis/Screenshot%20(84).png)
